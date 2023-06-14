@@ -1,0 +1,8 @@
+Laborátorio Web:
+
+Equipe: Allan,Antônio Kaio, Roberta, Yasmim.A e Yonara.
+
+-Todos fizeram os wireframes.
+-Allan e Yonara fizeram as telas no canva.
+-Kaio, Yasmim e Roberta programaram as telas.
+-Roberta, Yasmim e Yonara linkaram as telas.
